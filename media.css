@@ -1,0 +1,42 @@
+@media screen and (max-width: 760px) {
+
+    header{
+        flex-direction: column;
+        font-size: 12.5px;
+    }    
+
+    main {
+        flex-direction: column;
+    }
+
+    h2 {
+        font-size: 17px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    input {
+        font-size: 10px;
+    }
+
+    img{
+        width: 400px;
+        margin-top: 60px;
+        margin-left: 0px;
+        border-radius: 30px;
+        image-resolution: 200px;
+        
+        
+    }
+
+}
+
+
+
+
